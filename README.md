@@ -11,3 +11,10 @@
 
 <img width="711" height="991" alt="image" src="https://github.com/user-attachments/assets/f9f25bfe-aee8-4016-b578-f6bbb2886ebd" />
 数据集收录演奏技法
+
+
+
+
+
+链接：https://pan.baidu.com/s/1uP6P_cOLJMLfd56uar42wA 
+提取码：z691
