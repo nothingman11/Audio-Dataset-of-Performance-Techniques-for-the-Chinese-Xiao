@@ -3,3 +3,6 @@
 
 <img width="1068" height="552" alt="image" src="https://github.com/user-attachments/assets/8ba06eb2-2f34-4068-825f-02b4caea5c13" />
 录音设备配置图
+
+<img width="711" height="991" alt="image" src="https://github.com/user-attachments/assets/f9f25bfe-aee8-4016-b578-f6bbb2886ebd" />
+数据集收录演奏技法
