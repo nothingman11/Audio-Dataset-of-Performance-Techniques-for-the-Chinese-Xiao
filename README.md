@@ -42,3 +42,8 @@
 
 *   **链接**: [https://pan.baidu.com/s/1uP6P_cOLJMLfd56uar42wA](https://pan.baidu.com/s/1uP6P_cOLJMLfd56uar42wA)
 *   **提取码**: `z691`
+
+  
+  ## 📄 许可证
+
+本项目仅供学习和数据处理交流使用
